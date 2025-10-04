@@ -1,5 +1,5 @@
 # A simple workflow to demonstrate a custom step name.
-name: CI
+name: 23f2004299@ds.study.iitm.ac.in
 
 # Controls when the workflow will run
 on:
